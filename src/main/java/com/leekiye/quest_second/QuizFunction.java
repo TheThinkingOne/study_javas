@@ -10,12 +10,6 @@ public class QuizFunction {
 
     ArrayList<HashMap<String, String>> questions = new ArrayList<>();
 
-    /*public HashMap<String, String> insertQuestionInfo(HashMap<String, String> question) {
-        HashMap<String, String> questionMap = new HashMap<>();
-        questions.add(questionMap);
-
-        return questionMap;
-    }*/
 
     public void makeQuestion() {
         HashMap<String, String> question1 = new HashMap<>();
